@@ -1,0 +1,8 @@
+body {
+    background-image: linear-gradient(rgba(82, 145, 161, 0), rgb(16, 140, 189));
+    background-attachment: fixed;
+  }
+
+  #card {
+    background-image: linear-gradient(rgba(256, 253, 208, 0.5), #cccaa6);
+  }
